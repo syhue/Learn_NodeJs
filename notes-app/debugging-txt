@@ -1,0 +1,7 @@
+debugger
+
+brave://inspect
+
+restart
+
+node inspect <same command>
